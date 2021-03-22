@@ -1,3 +1,2 @@
-theme: carlosperate/jekyll-theme-rtd
+remote_theme: carlosperate/jekyll-theme-rtd
 description: Proyectos con Raspberry Pi para el aula de 1º de ASIR
-show_downloads: true
