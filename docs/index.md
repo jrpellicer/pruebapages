@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Inicio
+excerpt: Proyectos con Raspberry Pi en 1º ASIR
+nav_order: 1
 ---
 # La Raspberry Pi en el aula de 1º de ASIR
 Esta es una recopilación de pequeños proyectos para realizar en el aula de 1º del CFGS de ASIR con Raspberry Pi en los que se ven contenidos de manera transversal, o si se prefiere al revés, son proyectos en los que se ven contenidos de 1º de ASIR mientras se ve Linux en una Raspberry Pi de manera transversal. El objetivo final es aprender contenidos mientras se aprende Linux jugando con una Raspberry Pi.
