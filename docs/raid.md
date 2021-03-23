@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Disco RAID
+nav_order: 11
 ---
 # RAID
 
