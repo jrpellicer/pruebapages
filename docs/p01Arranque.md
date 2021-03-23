@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Arranque Windows
+title: Arranque desde Windows 10
+nav_order: 2
 ---
 # Puesta en marcha de la Raspberry Pi (Desde Windows 10)
 
