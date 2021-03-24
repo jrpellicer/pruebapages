@@ -18,6 +18,8 @@ Dispositivo cliente:
 - Alimentador MicroUSB.
 - 3 Cables puente para conectar el sensor DHT22 al NodeMCU
 
+<img src="../images/meteo3.png" width="700">
+
 Servidor:
 - Raspberry Pi 4 model B.
 - Tarjeta SD.
@@ -26,3 +28,5 @@ Servidor:
 La placa NodeMCU es una placa de desarrollo totalmente abierta, a nivel de software y de hardware. Al igual que ocurre con Arduino, en NodeMCU todo está dispuesto para facilitar la programación de un microcontrolador o MCU (del inglés Microcontroller Unit).
 
 No hay que confundir microcontrolador con placa de desarrollo. NodeMCU no es un microcontrolador al igual que Arduino tampoco lo es. Son placas o kits de desarrollo que llevan incorporados un microcontrolador o MCU, en el caso de NodeMCU lleva el MCU ESP8266. Lo atractivo de NodeMCU con respecto a Arduino UNO es que incorpora un módulo WiFi.
+
+<img src="../images/meteo4.png">
