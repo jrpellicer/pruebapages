@@ -25,7 +25,9 @@ El proceso comienza descargando una serie de paquetes necesarios:
 
 A continuación obtenemos la clave firmada para la descarga de los paquetes de Docker:
 
+```
     # curl -fsSL https://download.docker.com/linux/raspbian/gpg | sudo apt-key add –
+```
 
 Añadimos el repositorio oficial de Docker a nuestra lista de repositorios (aquí ponemos de manera automática la release que estamos utiliozando y de manera manual la arquitectura de la raspberry):
 
