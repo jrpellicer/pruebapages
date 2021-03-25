@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Arranque desde Ubuntu Linux
-nav_order: 2
+nav_order: 3
 ---
 # Puesta en marcha de la Raspberry Pi (Desde Ubuntu)
 

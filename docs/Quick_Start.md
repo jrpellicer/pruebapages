@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quick Start
-nav_order: 1
+nav_order: 2
 ---
 # Puesta en marcha rápida de la Raspberry Pi
 
